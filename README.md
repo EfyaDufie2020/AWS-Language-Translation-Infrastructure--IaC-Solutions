@@ -16,7 +16,7 @@ This solution implements a fully serverless translation pipeline that:
 │    (Input JSON) │    │ (Translation API)│    │ (Translated JSON)│
 └─────────────────┘    └──────────────────┘    └─────────────────┘
 ```
-![infrustructure diagram ](image.png)
+![infrastructure diagram ](image.png)
 
 
 ## 📋 Table of Contents
